@@ -14,7 +14,6 @@ Trabalho com **Python**, **Java**, **JavaScript** e **Flutter**. No momento, meu
 ## Tecnologias que uso
 
 - Python
-- Java
 - JavaScript
 - Flutter
 - Agno
